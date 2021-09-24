@@ -1,0 +1,13 @@
+[
+ {
+  "table":"ADDR_PCDFORMAT",
+  "data":
+  [
+   {
+    "MANDT":"010",
+    "COUNTRY":"CA",
+    "POSTAL_CODE_FORMAT":"ANA NAN"
+   }
+  ]
+ }
+]
