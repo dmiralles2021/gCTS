@@ -16,6 +16,20 @@
      }
     ],
     "hash":"IVnTQE1HHxEOmSv+OkZ0ZRzC5B0="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"010"
+     },
+     {
+      "key":"COUNTRY",
+      "value":"US"
+     }
+    ],
+    "hash":"OyHnTsHAvxvGKdYlMjYXuFhDHR8="
    }
   ]
  }
