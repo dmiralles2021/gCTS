@@ -15,6 +15,11 @@
    },
    {
     "MANDT":"010",
+    "COUNTRY":"UK",
+    "POSTAL_CODE_FORMAT":"NNNNNN"
+   },
+   {
+    "MANDT":"010",
     "COUNTRY":"US",
     "POSTAL_CODE_FORMAT":"NNNNN"
    }
