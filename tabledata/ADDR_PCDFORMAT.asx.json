@@ -5,6 +5,11 @@
   [
    {
     "MANDT":"010",
+    "COUNTRY":"AR",
+    "POSTAL_CODE_FORMAT":"NNNN"
+   },
+   {
+    "MANDT":"010",
     "COUNTRY":"CA",
     "POSTAL_CODE_FORMAT":"ANA NAN"
    },
