@@ -1,0 +1,106 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Documentation",
+    "LENGTH":13
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"E",
+    "ENTRY":"Chapter",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"E",
+    "ENTRY":"Object",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"S03",
+    "LANG":"E",
+    "ENTRY":"Description",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"S04",
+    "LANG":"E",
+    "ENTRY":"Comment",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"S05",
+    "LANG":"E",
+    "ENTRY":"Table 1",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"S06",
+    "LANG":"E",
+    "ENTRY":"Tab head",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"S07",
+    "LANG":"E",
+    "ENTRY":"Subtitle",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"S08",
+    "LANG":"E",
+    "ENTRY":"Subtitle2",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"S09",
+    "LANG":"E",
+    "ENTRY":"WD Context node",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"S10",
+    "LANG":"E",
+    "ENTRY":"WD Context attr.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"S11",
+    "LANG":"E",
+    "ENTRY":"WD Layout item.",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"S12",
+    "LANG":"E",
+    "ENTRY":"Description 2",
+    "LENGTH":13
+   },
+   {
+    "ID":"I",
+    "KEY":"S13",
+    "LANG":"E",
+    "ENTRY":"Normal Bold",
+    "LENGTH":11
+   }
+  ]
+ }
+]

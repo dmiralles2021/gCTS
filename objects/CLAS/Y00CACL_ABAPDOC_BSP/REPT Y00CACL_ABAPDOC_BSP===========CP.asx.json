@@ -1,0 +1,106 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Description:",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"011",
+    "LANG":"E",
+    "ENTRY":"Pages:",
+    "LENGTH":15
+   },
+   {
+    "ID":"I",
+    "KEY":"012",
+    "LANG":"E",
+    "ENTRY":"Page type:",
+    "LENGTH":15
+   },
+   {
+    "ID":"I",
+    "KEY":"013",
+    "LANG":"E",
+    "ENTRY":"Controller class:",
+    "LENGTH":17
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"E",
+    "ENTRY":"Event handler list",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"023",
+    "LANG":"E",
+    "ENTRY":"Attributes",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"024",
+    "LANG":"E",
+    "ENTRY":"Attribute",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"025",
+    "LANG":"E",
+    "ENTRY":"Type",
+    "LENGTH":10
+   },
+   {
+    "ID":"I",
+    "KEY":"026",
+    "LANG":"E",
+    "ENTRY":"Alias name",
+    "LENGTH":15
+   },
+   {
+    "ID":"I",
+    "KEY":"031",
+    "LANG":"E",
+    "ENTRY":"Navigation",
+    "LENGTH":10
+   },
+   {
+    "ID":"I",
+    "KEY":"035",
+    "LANG":"E",
+    "ENTRY":"Page with Flow Logic",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"036",
+    "LANG":"E",
+    "ENTRY":"Page Fragment",
+    "LENGTH":13
+   },
+   {
+    "ID":"I",
+    "KEY":"037",
+    "LANG":"E",
+    "ENTRY":"Page - View",
+    "LENGTH":11
+   },
+   {
+    "ID":"I",
+    "KEY":"038",
+    "LANG":"E",
+    "ENTRY":"Page - Controller",
+    "LENGTH":17
+   }
+  ]
+ }
+]

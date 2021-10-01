@@ -1,0 +1,3 @@
+private section.
+*"* private components of class ZCX_KCT_ABAP_DOC
+*"* do not include other source files here!!!

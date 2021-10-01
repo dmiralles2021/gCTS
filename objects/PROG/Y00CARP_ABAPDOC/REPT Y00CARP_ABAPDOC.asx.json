@@ -1,0 +1,330 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"F01",
+    "LANG":"E",
+    "ENTRY":"Local computer",
+    "LENGTH":14
+   },
+   {
+    "ID":"I",
+    "KEY":"F02",
+    "LANG":"E",
+    "ENTRY":"Application server",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"F03",
+    "LANG":"E",
+    "ENTRY":"File name",
+    "LENGTH":9
+   },
+   {
+    "ID":"I",
+    "KEY":"F41",
+    "LANG":"E",
+    "ENTRY":"Select object type",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"KW1",
+    "LANG":"E",
+    "ENTRY":"Source code Key words",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"OBJ",
+    "LANG":"E",
+    "ENTRY":"Generate documentation for:",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"OFI",
+    "LANG":"E",
+    "ENTRY":"Output file",
+    "LENGTH":11
+   },
+   {
+    "ID":"I",
+    "KEY":"OOP",
+    "LANG":"E",
+    "ENTRY":"Choose output options",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"OPT",
+    "LANG":"E",
+    "ENTRY":"Select required objects:",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"PWF",
+    "LANG":"E",
+    "ENTRY":"Workflow documentator",
+    "LENGTH":21
+   },
+   {
+    "ID":"I",
+    "KEY":"S01",
+    "LANG":"E",
+    "ENTRY":"Object type",
+    "LENGTH":13
+   },
+   {
+    "ID":"I",
+    "KEY":"S02",
+    "LANG":"E",
+    "ENTRY":"Object type",
+    "LENGTH":13
+   },
+   {
+    "ID":"I",
+    "KEY":"S03",
+    "LANG":"E",
+    "ENTRY":"Object name",
+    "LENGTH":13
+   },
+   {
+    "ID":"I",
+    "KEY":"S04",
+    "LANG":"E",
+    "ENTRY":"Plugin",
+    "LENGTH":6
+   },
+   {
+    "ID":"I",
+    "KEY":"S05",
+    "LANG":"E",
+    "ENTRY":"Text",
+    "LENGTH":4
+   },
+   {
+    "ID":"I",
+    "KEY":"S06",
+    "LANG":"E",
+    "ENTRY":"Generate method",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"S07",
+    "LANG":"E",
+    "ENTRY":"OLE (obsolet)",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"S08",
+    "LANG":"E",
+    "ENTRY":"DOCX",
+    "LENGTH":10
+   },
+   {
+    "ID":"I",
+    "KEY":"S09",
+    "LANG":"E",
+    "ENTRY":"XML",
+    "LENGTH":3
+   },
+   {
+    "ID":"I",
+    "KEY":"T01",
+    "LANG":"E",
+    "ENTRY":"Select object for documentation",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"T02",
+    "LANG":"E",
+    "ENTRY":"Documentation generate result",
+    "LENGTH":31
+   },
+   {
+    "ID":"I",
+    "KEY":"T03",
+    "LANG":"E",
+    "ENTRY":"Specify directory to save the file",
+    "LENGTH":50
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"ABAPdoc: Generate technical documentation",
+    "LENGTH":45
+   },
+   {
+    "ID":"S",
+    "KEY":"P_APPL",
+    "LANG":"E",
+    "ENTRY":"        Applicfation server",
+    "LENGTH":27
+   },
+   {
+    "ID":"S",
+    "KEY":"P_A_FILE",
+    "LANG":"E",
+    "ENTRY":"        Directory",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DOCO",
+    "LANG":"E",
+    "ENTRY":"        Objects",
+    "LENGTH":15
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DOCP",
+    "LANG":"E",
+    "ENTRY":"        Objects from package",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_DOCT",
+    "LANG":"E",
+    "ENTRY":"        Objects from transport",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"P_EMPTY1",
+    "LANG":"E",
+    "ENTRY":"        Print also empty paragraphs",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"P_LOCAL",
+    "LANG":"E",
+    "ENTRY":"        Local computer",
+    "LENGTH":22
+   },
+   {
+    "ID":"S",
+    "KEY":"P_L_FILE",
+    "LANG":"E",
+    "ENTRY":"        Directory",
+    "LENGTH":17
+   },
+   {
+    "ID":"S",
+    "KEY":"P_OBJECT",
+    "LANG":"E",
+    "ENTRY":"        Object name",
+    "LENGTH":21
+   },
+   {
+    "ID":"S",
+    "KEY":"P_OBJTYP",
+    "LANG":"E",
+    "ENTRY":"        Object type",
+    "LENGTH":19
+   },
+   {
+    "ID":"S",
+    "KEY":"P_OPINTF",
+    "LANG":"E",
+    "ENTRY":"        Interface's descr -FM, methods",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"P_OPMCOM",
+    "LANG":"E",
+    "ENTRY":"        Only main prog.units comments",
+    "LENGTH":37
+   },
+   {
+    "ID":"S",
+    "KEY":"P_OPOSCR",
+    "LANG":"E",
+    "ENTRY":"        All programs screens",
+    "LENGTH":29
+   },
+   {
+    "ID":"S",
+    "KEY":"P_OPSELS",
+    "LANG":"E",
+    "ENTRY":"        Report's select.screens",
+    "LENGTH":36
+   },
+   {
+    "ID":"S",
+    "KEY":"P_OPTECH",
+    "LANG":"E",
+    "ENTRY":"        Rep.objects technical docs.",
+    "LENGTH":35
+   },
+   {
+    "ID":"S",
+    "KEY":"P_PACKAG",
+    "LANG":"E",
+    "ENTRY":"        Package name",
+    "LENGTH":20
+   },
+   {
+    "ID":"S",
+    "KEY":"P_REDCX",
+    "LANG":"E",
+    "ENTRY":"        Generate method: .docx",
+    "LENGTH":30
+   },
+   {
+    "ID":"S",
+    "KEY":"P_REOLE",
+    "LANG":"E",
+    "ENTRY":"        Generate method: OLE",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"P_REXML",
+    "LANG":"E",
+    "ENTRY":"        Generate method: XML",
+    "LENGTH":28
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_KBSP",
+    "LANG":"E",
+    "ENTRY":"        BSP events",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_KREP",
+    "LANG":"E",
+    "ENTRY":"        Programs, FMs, methods",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"SO_KWDA",
+    "LANG":"E",
+    "ENTRY":"        WDA actions",
+    "LENGTH":33
+   },
+   {
+    "ID":"S",
+    "KEY":"S_TRKORR",
+    "LANG":"E",
+    "ENTRY":"        Transport number",
+    "LENGTH":24
+   }
+  ]
+ }
+]

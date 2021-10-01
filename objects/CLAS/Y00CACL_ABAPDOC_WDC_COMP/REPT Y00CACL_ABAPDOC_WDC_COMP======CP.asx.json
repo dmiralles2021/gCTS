@@ -1,0 +1,183 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Description:",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"Assistence Class",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":"Component Use",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"E",
+    "ENTRY":"Component",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":"Description of Component",
+    "LENGTH":40
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"E",
+    "ENTRY":"Component Controller",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"E",
+    "ENTRY":"Windows",
+    "LENGTH":15
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"E",
+    "ENTRY":"Views",
+    "LENGTH":10
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"E",
+    "ENTRY":"Interface Views",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"E",
+    "ENTRY":"Inbound/Outbound",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"011",
+    "LANG":"E",
+    "ENTRY":"Plug name",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"012",
+    "LANG":"E",
+    "ENTRY":"Is interface?",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"013",
+    "LANG":"E",
+    "ENTRY":"Plug type",
+    "LENGTH":19
+   },
+   {
+    "ID":"I",
+    "KEY":"014",
+    "LANG":"E",
+    "ENTRY":"Description",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"015",
+    "LANG":"E",
+    "ENTRY":"Inbound",
+    "LENGTH":10
+   },
+   {
+    "ID":"I",
+    "KEY":"016",
+    "LANG":"E",
+    "ENTRY":"Outbound",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"017",
+    "LANG":"E",
+    "ENTRY":"Source plug view",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"018",
+    "LANG":"E",
+    "ENTRY":"Source plug name",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"019",
+    "LANG":"E",
+    "ENTRY":"Target plug view",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"E",
+    "ENTRY":"Target plug name",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"021",
+    "LANG":"E",
+    "ENTRY":"Component Usages",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"022",
+    "LANG":"E",
+    "ENTRY":"Inbound/Outbound plugs",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"023",
+    "LANG":"E",
+    "ENTRY":"Navigation",
+    "LENGTH":15
+   },
+   {
+    "ID":"I",
+    "KEY":"024",
+    "LANG":"E",
+    "ENTRY":"Interface Controller",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"025",
+    "LANG":"E",
+    "ENTRY":"View Layout",
+    "LENGTH":20
+   }
+  ]
+ }
+]

@@ -1,0 +1,85 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"A00",
+    "LANG":"E",
+    "ENTRY":"Messages",
+    "LENGTH":8
+   },
+   {
+    "ID":"I",
+    "KEY":"A01",
+    "LANG":"E",
+    "ENTRY":"Type",
+    "LENGTH":4
+   },
+   {
+    "ID":"I",
+    "KEY":"A02",
+    "LANG":"E",
+    "ENTRY":"Message type",
+    "LENGTH":12
+   },
+   {
+    "ID":"I",
+    "KEY":"A03",
+    "LANG":"E",
+    "ENTRY":"Text",
+    "LENGTH":7
+   },
+   {
+    "ID":"I",
+    "KEY":"A04",
+    "LANG":"E",
+    "ENTRY":"Message text",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"E31",
+    "LANG":"E",
+    "ENTRY":"The XML content is empty",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"SA1",
+    "LANG":"E",
+    "ENTRY":"Saving succeeded",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"SA2",
+    "LANG":"E",
+    "ENTRY":"Saving failed with subrc",
+    "LENGTH":24
+   },
+   {
+    "ID":"R",
+    "KEY":"",
+    "LANG":"E",
+    "ENTRY":"BPMN generator for SAP Workflow",
+    "LENGTH":31
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_LANGU",
+    "LANG":"E",
+    "ENTRY":"        Language",
+    "LENGTH":38
+   },
+   {
+    "ID":"S",
+    "KEY":"PA_WFKEY",
+    "LANG":"E",
+    "ENTRY":"        Workflow ID",
+    "LENGTH":19
+   }
+  ]
+ }
+]

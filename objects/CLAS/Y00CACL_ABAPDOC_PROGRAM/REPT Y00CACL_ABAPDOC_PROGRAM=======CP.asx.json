@@ -1,0 +1,78 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Description:",
+    "LENGTH":15
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"Screen element",
+    "LENGTH":25
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":"Parameter",
+    "LENGTH":15
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"E",
+    "ENTRY":"Selection option",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"E",
+    "ENTRY":"Block of selection screen",
+    "LENGTH":30
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"E",
+    "ENTRY":"Program include",
+    "LENGTH":18
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"E",
+    "ENTRY":"Screen",
+    "LENGTH":6
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"E",
+    "ENTRY":"Code comment",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"011",
+    "LANG":"E",
+    "ENTRY":"Documentation",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"012",
+    "LANG":"E",
+    "ENTRY":"Includes",
+    "LENGTH":8
+   }
+  ]
+ }
+]

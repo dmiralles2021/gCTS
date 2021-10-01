@@ -1,0 +1,10 @@
+U1 &FUNCTIONALITY&                                                         
+AS FG funcionality                                                         
+U1 &RELATIONS&                                                             
+AS                                                                         
+U1 &EXAMPLE&                                                               
+AS                                                                         
+U1 &HINTS&                                                                 
+AS                                                                         
+U1 &FURTHER_SOURCES_OF_INF&                                                
+AS                                                                         

@@ -1,0 +1,190 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Description:",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"011",
+    "LANG":"E",
+    "ENTRY":"Line type",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"012",
+    "LANG":"E",
+    "ENTRY":"Category of Dictionary Type:",
+    "LENGTH":28
+   },
+   {
+    "ID":"I",
+    "KEY":"013",
+    "LANG":"E",
+    "ENTRY":"Name of row type:",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"014",
+    "LANG":"E",
+    "ENTRY":"Category of Dictionary Type:",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"015",
+    "LANG":"E",
+    "ENTRY":"Data Type in ABAP Dictionary:",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"016",
+    "LANG":"E",
+    "ENTRY":"Length (No. of Characters):",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"017",
+    "LANG":"E",
+    "ENTRY":"Number of Decimal Places:",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"018",
+    "LANG":"E",
+    "ENTRY":"Type of Object Referenced:",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"019",
+    "LANG":"E",
+    "ENTRY":"Initialization and access",
+    "LENGTH":35
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"E",
+    "ENTRY":"Key",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"021",
+    "LANG":"E",
+    "ENTRY":"Not Specified",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"022",
+    "LANG":"E",
+    "ENTRY":"Index Table",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"023",
+    "LANG":"E",
+    "ENTRY":"Standard Table",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"024",
+    "LANG":"E",
+    "ENTRY":"Sorted Table",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"025",
+    "LANG":"E",
+    "ENTRY":"Hashed Table",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"026",
+    "LANG":"E",
+    "ENTRY":"Access modes:",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"031",
+    "LANG":"E",
+    "ENTRY":"Standard key",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"032",
+    "LANG":"E",
+    "ENTRY":"Row Type",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"033",
+    "LANG":"E",
+    "ENTRY":"Not specified",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"034",
+    "LANG":"E",
+    "ENTRY":"Key components",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"036",
+    "LANG":"E",
+    "ENTRY":"Key definition:",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"037",
+    "LANG":"E",
+    "ENTRY":"Key category:",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"041",
+    "LANG":"E",
+    "ENTRY":"Structure or Transp. Table",
+    "LENGTH":26
+   },
+   {
+    "ID":"I",
+    "KEY":"042",
+    "LANG":"E",
+    "ENTRY":"Table Type",
+    "LENGTH":20
+   },
+   {
+    "ID":"I",
+    "KEY":"043",
+    "LANG":"E",
+    "ENTRY":"Data element",
+    "LENGTH":20
+   }
+  ]
+ }
+]

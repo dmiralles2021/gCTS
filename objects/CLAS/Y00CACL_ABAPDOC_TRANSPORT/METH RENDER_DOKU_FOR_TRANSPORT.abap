@@ -1,0 +1,2 @@
+method RENDER_DOKU_FOR_TRANSPORT.
+endmethod.
